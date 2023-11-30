@@ -22,9 +22,9 @@ export const store = reactive({
       },
       {
         "id": "9355bc7c-bdc7-40c3-8932-e840c996ed86",
-        "name": "Caf� Okei",
+        "name": "Cafe Okei",
         "brewery_type": "bar",
-        "address_1": "Feldkirchenstra�e 40",
+        "address_1": "Feldkirchenstrae 40",
         "address_2": null,
         "address_3": null,
         "city": "Kalsdorf bei Graz",
@@ -36,7 +36,7 @@ export const store = reactive({
         "phone": "+43313557156",
         "website_url": "https://okei.at",
         "state": "Steiermark",
-        "street": "Feldkirchenstra�e 40"
+        "street": "Feldkirchenstrae 40"
       },
       {
         "id": "16fb2c6e-c7e1-4d46-b9d0-1c86816eb129",
@@ -78,7 +78,7 @@ export const store = reactive({
         "id": "867eee9e-2138-4e62-97a9-b25e7fd1a1ff",
         "name": "Klosterbrauerei Stift Engelszell",
         "brewery_type": "nano",
-        "address_1": "Stiftstra�e 6",
+        "address_1": "Stiftstrae 6",
         "address_2": null,
         "address_3": null,
         "city": "Engelhartszell",
@@ -90,7 +90,7 @@ export const store = reactive({
         "phone": "+4377178010",
         "website_url": "https://www.stift-engelszell.at/trappistenbrauerei/brauerei",
         "state": "Oberösterreich",
-        "street": "Stiftstra�e 6"
+        "street": "Stiftstrae 6"
       },
       {
         "id": "524ab865-1df1-4655-b19f-0eb427cfa0d6",
@@ -153,34 +153,34 @@ export const store = reactive({
         "address_1": "Schleppe-Platz 1",
         "address_2": null,
         "address_3": null,
-        "city": "Klagenfurt am W�rthersee",
-        "state_province": "K�rnten",
+        "city": "Klagenfurt am Wrthersee",
+        "state_province": "Krnten",
         "postal_code": "9020",
         "country": "Austria",
         "longitude": "14.286632028634074",
         "latitude": "46.6416966591789",
         "phone": "+4346342700",
         "website_url": "http://www.schleppe.at",
-        "state": "K�rnten",
+        "state": "Krnten",
         "street": "Schleppe-Platz 1"
       },
       {
         "id": "4c8dff75-fa8c-41ce-9999-1f063b59addb",
         "name": "Schwechater Brauerei (Heineken)",
         "brewery_type": "large",
-        "address_1": "Mautner-Markhof-Stra�e 11",
+        "address_1": "Mautner-Markhof-Strae 11",
         "address_2": null,
         "address_3": null,
         "city": "Schwechat",
-        "state_province": "Nieder�sterreich",
+        "state_province": "Niedersterreich",
         "postal_code": "2320",
         "country": "Austria",
         "longitude": "16.467172715971294",
         "latitude": "48.14492358439182",
         "phone": "+431701400",
         "website_url": "https://www.schwechater.at",
-        "state": "Nieder�sterreich",
-        "street": "Mautner-Markhof-Stra�e 11"
+        "state": "Niedersterreich",
+        "street": "Mautner-Markhof-Strae 11"
       }
     ],
 });
