@@ -15,6 +15,8 @@ export default {
                 <p class="mt-8">{{ info.city }}</p> 
                 <p class="mt-8">{{ info.address_1 }}</p>
                 <p class="mt-8">{{ info.phone }}</p>
+                <p class="mt-8">{{ info.website_url }}</p>
+
             </div>
         </div>
     </div>
@@ -23,7 +25,7 @@ export default {
 <style scoped>
 .card-wrapper {
     padding: 1rem;
-    width: calc(100% / 5);
+    width: calc(100% / 4);
 }
 
 .card {
